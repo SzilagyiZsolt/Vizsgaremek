@@ -1,0 +1,16 @@
+.settings{
+    background-color:#f0f0f0 ;
+    padding-bottom: 150px;
+}
+.form-container {
+    max-width: 400px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  .form-container h2 {
+    color: #007bff;
+    margin-bottom: 20px;
+  }

@@ -1,0 +1,56 @@
+.call-to-action3 {
+    background: linear-gradient(rgba(116, 126, 141, 0.6), rgba(135, 140, 146, 0.8)), url("../Img/Conctactus.jpg") center center;
+    background-size: cover;
+    padding: 100px 0;
+  }
+   
+@media (min-width: 1365px) {
+    .call-to-action3 {
+      background-attachment: fixed;
+    }
+  }
+  
+.call-to-action h3 {
+    color: #fff;
+    font-size: 28px;
+    font-weight: 700;
+  }
+  
+.call-to-action p {
+    color: #fff;
+    font-style: italic;
+  }
+  
+.call-to-action .cta-btn {
+    font-family: var(--font-primary);
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 12px 40px;
+    border-radius: 5px;
+    transition: 0.5s;
+    margin: 10px;
+    text-decoration: none;
+    border: 2px solid #426ee9;
+    color: #fff;
+  }
+.contact-h2{
+    font-family: 'File Deletion', sans-serif;
+    background: #1791DD;
+    background: linear-gradient(to top right, #1791DD 35%, #FFFFFF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 100px;
+    letter-spacing: 10px;
+}
+.contact-p2{
+    font-family: 'File Deletion', sans-serif;                                             
+    background: #1791DD;
+    background: linear-gradient(to top right, #1791DD 35%, #FFFFFF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 35px;
+    font-style: italic;
+    letter-spacing: 5px;
+}

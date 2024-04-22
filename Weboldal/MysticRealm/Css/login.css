@@ -1,0 +1,73 @@
+.gradient-custom-2 {
+
+background: #90b2fc;
+
+
+background: -webkit-linear-gradient(to bottom,#a5aed9,#818dca,#5e6dbb,#4453a1,#35417e);
+
+
+background: linear-gradient(to right,#a5aed9,#818dca,#5e6dbb,#4453a1,#35417e);
+}
+
+
+@media (min-width: 768px) {
+    .gradient-form {
+    height: 100vh !important;
+    }
+}
+@media (min-width: 769px) {
+    .gradient-custom-2 {
+    border-top-right-radius: .3rem;
+    border-bottom-right-radius: .3rem;
+    }
+}
+.icon-font{
+    font-size:35px;
+}
+.button-style{
+    color: white;
+    background: #90b2fc;
+
+
+    background: -webkit-linear-gradient(to right,#7888d4,#5166c7,#384cae,#2b3b87);
+
+
+    background: linear-gradient(to right,#7888d4,#5166c7,#384cae,#2b3b87);
+}
+.button-style:hover{
+    background: -webkit-linear-gradient(to right,#384cae,#2b3b87)
+}
+.bg-login-img{
+    background-image: url(../Img/logintry.jpg);
+    background-size:cover;
+    -webkit-animation: slidein 100s;
+    animation: slidein 100s;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;        
+}
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:200');
+
+
+@-webkit-keyframes slidein {
+from {background-position: top; background-size:3000px; }
+to {background-position: -100px 0px;background-size:2750px;}
+}
+
+@keyframes slidein {
+from {background-position: top;background-size:3000px; }
+to {background-position: -100px 0px;background-size:2750px;}
+
+}
+.card-background-glasseffect{
+background: rgba(13, 13, 13, 0.57);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(11.4px);
+-webkit-backdrop-filter: blur(11.4px);
+border: 1px solid rgba(13, 13, 13, 0.27);
+
+}

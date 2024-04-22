@@ -1,0 +1,39 @@
+.lore_section {
+    font-family: Arial, sans-serif;
+    background-image: url(../Img/lore_wallpaper.jpg);
+    background-size:cover;
+    -webkit-animation: slidein 100s;
+    animation: slidein 100s;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate; 
+    margin: 0;
+    padding: 0;
+}
+    
+.lore_header {
+    color: black;
+    text-align: center;
+    padding: 20px 0;
+}
+    
+.lore_main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+    
+.story {
+    border-radius: 16px;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(12.6px);
+    -webkit-backdrop-filter: blur(12.6px);
+    border: 1px solid rgba(255, 255, 255, 0.26);
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: large;
+}
