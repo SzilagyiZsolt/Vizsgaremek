@@ -10,7 +10,7 @@
             <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Data Protection and User Privacy:<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq1" class="collapse" data-bs-parent=".faq-list">
               <p>
-              At MysticRealm, we value your privacy and are committed to safeguarding your personal information. This Privacy Policy outlines how we collect, use, and protect your data when you access and use our platform. By using DineEase, you agree to the terms outlined in this policy.
+              At MysticRealm, we value your privacy and are committed to safeguarding your personal information. This Privacy Policy outlines how we collect, use, and protect your data when you access and use our platform. By using Mystic Realm, you agree to the terms outlined in this policy.
               </p>
             </div>
           </li>
@@ -58,8 +58,8 @@
             <div data-bs-toggle="collapse" href="#faq7" class="collapsed question">Updates and Amendments: <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq7" class="collapse" data-bs-parent=".faq-list">
               <p>
-              DineEase may update this Privacy Policy from time to time to reflect changes in data regulations or platform enhancements. We recommend checking this page periodically for the latest information.
-              If you have any questions or concerns regarding our Privacy Policy or how we handle your data, please feel free to contact our support team at privacy@dineease.com.
+              Mystic Realm may update this Privacy Policy from time to time to reflect changes in data regulations or platform enhancements. We recommend checking this page periodically for the latest information.
+              If you have any questions or concerns regarding our Privacy Policy or how we handle your data, please feel free to contact our support team at privacy@mysticrealm.com.
               </p>
             </div>
           </li>
