@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trigger
+  - Deadzone
+  - Chest
+  - PatrolPoints
+  - Wall
+  - InventoryManager
+  - SwordEquipment
+  - Sword
+  - SkeletonKing
+  - Slime
+  - Hitbox
+  - Skeleton
+  - Coin
+  - CountDown
+  - ShopHP
+  - EnemyHitbox
+  - Executioner
+  - SummonTarget
+  - Floor
+  - SaveManager
+  - BrownSlime
+  - LogicManager
+  - Attack
+  - Despawn
+  - Elevator
+  - LaserSpawner
+  - SpawnPointLeft
+  - SpawnPointRight
+  - SpawnPointDown
+  - SpawnPointUp
+  - SlimeDMGText
+  - SlimeCV
+  - SkeletonDMGText
+  - SkeletonCV
+  - Anim
+  - Arrow
+  - Projectile
+  - Lava
+  - Crosshair
+  - Enemy1
+  - Enemy2
+  - BlueCrystal
+  - Sprite
+  - BulletSpawner
+  - Bullet
+  - EnemyCanvas1
+  - EnemyCanvas2
+  - EnemyCanvas3
+  - EnemyCanvas4
+  - Enemy3
+  - Enemy4
+  - FireBall
+  - Boss1
+  - Boss2
+  - Laser
+  - Pistol
+  - Rifle
+  - Fist
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Character
+  - Ground
+  - Enemy
+  - Wall
+  - Boss
+  - Summon
+  - Attack
+  - Arrow
+  - FireBall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
