@@ -1989,7 +1989,7 @@ Animator:
   m_GameObject: {fileID: 698764934}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 802a624178e94564d8ea1cc805034b3e, type: 2}
+  m_Controller: {fileID: 9100000, guid: 601abab829adf4548b80845cfa837de1, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2086,8 +2086,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b5fb6fdc95cbe945b9a57d87dca1477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
-  anim: {fileID: 0}
+  player: {fileID: 698764943}
+  anim: {fileID: 698764943}
   rb: {fileID: 0}
   Knight: {fileID: 698764944}
   alive: 1
