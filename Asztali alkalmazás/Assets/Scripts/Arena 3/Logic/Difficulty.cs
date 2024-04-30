@@ -28,6 +28,7 @@ public class Difficulty : MonoBehaviour
         playerStats.Speed = 6;
         isOpen = false;
         Time.timeScale = 1f;
+        spawner.SetActive(true);
         gameObject.SetActive(false);
     }
 }

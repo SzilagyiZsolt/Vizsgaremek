@@ -22,14 +22,6 @@ public class CountDownArena3 : MonoBehaviour
         {
             this.gameObject.SetActive(false);
         }
-        if(min < 2)
-        {
-            enemySpawners[0].SetActive(false);
-        }
-        if(min < 1)
-        {
-            enemySpawners[1].SetActive(false);
-        }
         min = Mathf.FloorToInt(countDown / 60);
         float sec = Mathf.FloorToInt(countDown % 60);
         minutes.text = min.ToString();
